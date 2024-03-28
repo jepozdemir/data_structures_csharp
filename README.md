@@ -4,6 +4,7 @@
 
 ## Overview
 This blog post explores the differences between Struct, Record, and Class in C# programming. These are fundamental concepts in C# that every developer should understand to write efficient and maintainable code.
+
 To read the full blog post, click on the following link: [Class vs. Record vs. Struct in C#](https://medium.com/c-sharp-progarmming/struct-vs-record-vs-class-in-c-3abdb9a1ee23)
 
 ## Blog Post Content
